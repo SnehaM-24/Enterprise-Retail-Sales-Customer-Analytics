@@ -1,6 +1,6 @@
 # 📊 Enterprise Retail Sales & Customer Analytics Platform
 
-> An end-to-end Data Analytics project built using **Python, MySQL, and Power BI** to analyze retail sales performance, customer behavior, product profitability, and business KPIs.
+  An end-to-end Data Analytics project built using **Python, MySQL, and Power BI** to analyze retail sales performance, customer behavior, product profitability, and business KPIs.
 
 ---
 
