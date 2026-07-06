@@ -254,8 +254,6 @@ Dashboard includes:
 - Shipping Analysis
 - KPI Dashboard
 
-*(Dashboard screenshots will be added after Power BI development.)*
-
 ---
 
 # 🚀 Future Improvements
