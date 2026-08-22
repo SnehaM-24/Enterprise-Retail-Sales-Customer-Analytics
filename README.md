@@ -1,9 +1,3 @@
-हो 👍 खाली **तुझ्या E-Commerce README च्या exact style/structure ला follow करून**, पण **Enterprise Retail Sales & Customer Analytics** project च्या actual dashboard नुसार complete README दिला आहे.
-
-**हे पूर्ण code block direct `README.md` मध्ये copy-paste कर.**
-मी unnecessary Python/MySQL claims टाकलेले नाहीत, कारण तुझ्या या project मध्ये dashboard वरून Power BI/Power Query/DAX आधारित project दिसतो.
-
-````markdown
 # Enterprise Retail Sales & Customer Analytics
 
 ## 📌 Project Overview
