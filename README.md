@@ -794,4 +794,3 @@ The dashboard helps identify high-performing areas, profit leakage, valuable cus
 Most importantly, the project demonstrates how retail data can be transformed into **actionable business insights that can support profitability improvement, customer retention, product optimization, regional decision-making, and faster management reporting.**
 
 ---
-
