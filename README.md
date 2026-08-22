@@ -675,25 +675,25 @@ These features allow users to move from high-level business performance to more 
 
 ## Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Screenshots/executive_overview.png)
 
 ---
 
 ## Sales & Product Performance
 
-![Sales & Product Performance](screenshots/sales_product_performance.png)
+![Sales & Product Performance](Screenshots/sales_product_performance.png)
 
 ---
 
 ## Customer Analytics
 
-![Customer Analytics](screenshots/customer_analytics.png)
+![Customer Analytics](Screenshots/customer_analytics.png)
 
 ---
 
 ## Regional & Trend Analysis
 
-![Regional & Trend Analysis](screenshots/regional_trend_analysis.png)
+![Regional & Trend Analysis](Screenshots/regional_trend_analysis.png)
 
 ---
 
